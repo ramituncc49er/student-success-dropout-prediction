@@ -46,4 +46,4 @@ legal_rag_assistant/
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
-
+```
