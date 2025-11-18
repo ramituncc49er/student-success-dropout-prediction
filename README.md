@@ -1,6 +1,13 @@
 # Predict students' dropout and academic success
 Predicts whether a student will drop out, continue, or graduate based on academic, financial, and demographic variables. The project includes preprocessing, feature engineering, correlation analysis, cross-validated evaluation and comparing several classical ML models.
 
+What the project does:
+- Perform data preprocessing & feature engineering with pandas / scikit-learn
+- Use correlation analysis and mutual information for manual feature selection of the most predictive features
+- Train and benchmark multiple models:
+    - Logistic Regression (L1), Random Forest, ExtraTrees
+    - LightGBM, CatBoost, XGBoost
+
 # Dataset
 
 Kaggle dataset, which contains data from a higher education institution on various variables related to undergraduate students, including demographics, social-economic factors, and academic performance, to investigate the impact of these factors on student dropout and academic success
