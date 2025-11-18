@@ -36,3 +36,14 @@ Kaggle dataset, which contains data from a higher education institution on vario
 - Curricular units 1st sem (evaluations): The number of curricular units evaluated by the student in the first semester. (Numerical)
 - Curricular units 1st sem (approved): The number of curricular units approved by the student in the first semester. (Numerical)
 
+## Repository Structure
+
+```text
+legal_rag_assistant/
+├─src/
+│ ├─ students_success_dropout_3
+│
+├─ README.md
+├─ LICENSE
+└─ .gitignore
+
